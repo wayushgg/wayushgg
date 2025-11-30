@@ -5,7 +5,7 @@
 **Full Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-wayusgg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wayusgg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Arsen](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://arsengg.netlify.app/)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-**Building modern desktop apps with Rust & Tauri** 🦀⚡
+**Building modern desktop apps with Python, Rust & Tauri** 🦀⚡
 
 Open to collaboration on interesting projects
 
