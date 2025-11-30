@@ -4,7 +4,7 @@
 
 **Full Stack Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-wayusgg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wayusgg)
+[![GitHub](https://img.shields.io/badge/GitHub-wayushgg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wayushgg)
 [![Arsen](https://img.shields.io/badge/Arsen-Visit-000000?style=flat-square&logo=netlify&logoColor=white)](https://arsengg.netlify.app/)
 
 </div>
