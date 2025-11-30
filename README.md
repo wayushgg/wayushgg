@@ -1,6 +1,6 @@
 <div align="center">
 
-# wayusgg
+# wayushgg
 
 **Full Stack Developer**
 
