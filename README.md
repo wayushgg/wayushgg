@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFC131?style=flat-square&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=FFC131)
 ![Vite](https://img.shields.io/badge/Vite-FFC131?style=flat-square&logo=vite&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-FFC131?style=flat-square&logo=go&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
