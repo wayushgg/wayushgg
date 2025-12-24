@@ -32,7 +32,7 @@
 
 <div align="center">
 
-**Building modern desktop apps with Python, Rust & Tauri** 🦀⚡
+**Building modern desktop apps & sites with Python, Go & React** 🦀⚡
 
 Open to collaboration on interesting projects
 
